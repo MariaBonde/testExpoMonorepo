@@ -1,0 +1,41 @@
+{
+  "cSpell.words": [
+    "autodocs",
+    "bools",
+    "BSON",
+    "Chamas",
+    "Dripsy",
+    "ianvs",
+    "localforage",
+    "manypkg",
+    "moti",
+    "nativewind",
+    "Parens",
+    "Pesa",
+    "prettiercache",
+    "shadcn",
+    "shemas",
+    "solito",
+    "sonner",
+    "superjson",
+    "tsbuildinfo",
+    "tsnd",
+    "Turborepo",
+    "typecheck",
+    "VIEWPORTS"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "tailwindCSS.experimental.configFile": "./configs/tailwind/index.ts",
+  "tailwindCSS.experimental.classRegex": [
+    ["clsx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+  ],
+
+}

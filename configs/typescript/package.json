@@ -1,0 +1,9 @@
+{
+  "name": "@mj/tsconfig",
+  "private": true,
+  "version": "0.1.1",
+  "files": [
+    "base.json",
+    "api-nest"
+  ]
+}
